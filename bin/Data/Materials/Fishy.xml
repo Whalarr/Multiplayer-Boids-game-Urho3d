@@ -1,0 +1,11 @@
+
+<material>
+  <technique name="Techniques/TerrainBlend.xml"/>
+  <texture name="Textures/TerrainWeights.dds" unit="0"/>
+  <texture name="Textures/Scales.dds" unit="1"/>
+  <texture name="Textures/Scales.dds" unit="2"/>
+  <texture name="Textures/Rock1.dds" unit="3"/>
+  <parameter name="MatSpecColor" value="0.5 0.5 0.5 16"/>
+  <parameter name="DetailTiling" value="2 2"/>
+
+</material>
